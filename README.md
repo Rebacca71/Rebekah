@@ -9,9 +9,14 @@ The structure of the folder:
     comment: input data 
   - file: Mini_example_submission.ipynb
     comment: computer code to generate the output
+
+
 research project:
+  
   title: "A research of Boston housing price"
+ 
   authors:
     - name: Jo Doe
       ORCID: 0000-0002-1825-XXXX
+  
   reference: submitter’s publication 
