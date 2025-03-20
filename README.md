@@ -8,7 +8,7 @@ This repository provides a **mini example** of a submission for the **Code Verif
   - **Title**: *A Research of Boston Housing Price*  
   - **👨‍🔬 Authors**: Jo Doe (ORCID: [0000-0002-1825-XXXX](https://orcid.org/0000-0002-1825-XXXX))  
   - **🏛️ Affiliation**: University of Twente, Faculty, Department  
-  - **📄 Article or Pre-print DOI**: [https://doi.org/10.1000/182](https://doi.org/10.1000/182)  
+  - **📄 Article or Pre-print DOI**: [https://doi.org/10.1000/182](https://doi.org/10.1000/182) (If you have)   
 
 ## 📂 Recommended Folder Structure  
 
