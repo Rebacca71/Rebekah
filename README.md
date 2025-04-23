@@ -1,11 +1,11 @@
 # 🏆 Research porject in Education
 
-This is a research focued on **teacher-facing learning analytics dashboards** in K-12 education.  
+This is a research project focued on **computational thinking** in K-12 education.  
 
 ## 📌 Research Information  
 
 - **📖 Research Project**  
-  - **Title**: *A Systematic Review of Learning Analytics Dashboards for Teachers in K-12 Education: A Perspective on Adaptive Teaching*  
+  - **Title**: *A research on student computational thinking skills*  
   - **👨‍🔬 Authors**: Jingyi Qiao, Tessa Eysink, Judith ter Vrugte
   - **🏛️ Affiliation**: University of Twente, Faculty of Behavioural, Management and Social sciences, Department of Learning, Data-analytics and Technology
  
@@ -14,8 +14,8 @@ This is a research focued on **teacher-facing learning analytics dashboards** in
 
 | 📁 Folder | 📄 File | 📝 Description |
 |-----------|--------|---------------|
-| **Data/** | `boston_housing.csv` | Input data |
-| **Code/** | `Mini_example_submission.ipynb` | Jupyter Notebook containing the code to generate output |
+| **Data/** | `student computational thinking.csv` | Input data |
+| **Code/** | `score analysis.ipynb` | Jupyter Notebook containing the code to generate output |
 | **Result/** | `output.docx` | Research output of the regression analysis |
 
 🚀 *This structured submission ensures clarity and reproducibility!*  
