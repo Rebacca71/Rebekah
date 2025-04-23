@@ -1,14 +1,14 @@
-# 🏆 Mini Example Submission  
+# 🏆 Research porject in Education
 
-This repository provides a **mini example** of a submission for the **Code Verification Competition** at the **University of Twente**.  
+This is a research focued on **teacher-facing learning analytics dashboards** in K-12 education.  
 
 ## 📌 Research Information  
 
 - **📖 Research Project**  
-  - **Title**: *A Research of Boston Housing Price*  
-  - **👨‍🔬 Authors**: Jo Doe (ORCID: [0000-0002-1825-XXXX](https://orcid.org/0000-0002-1825-XXXX))  
-  - **🏛️ Affiliation**: University of Twente, Faculty, Department  
-  - **📄 Article or Pre-print DOI**: [https://doi.org/10.1000/182](https://doi.org/10.1000/182) (If you have)   
+  - **Title**: *A Systematic Review of Learning Analytics Dashboards for Teachers in K-12 Education: A Perspective on Adaptive Teaching*  
+  - **👨‍🔬 Authors**: Jingyi Qiao, Tessa Eysink, Judith ter Vrugte
+  - **🏛️ Affiliation**: University of Twente, Faculty of Behavioural, Management and Social sciences, Department of Learning, Data-analytics and Technology
+ 
 
 ## 📂 Recommended Folder Structure  
 
