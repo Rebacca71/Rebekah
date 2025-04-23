@@ -16,4 +16,4 @@ This is a research project focued on **computational thinking** in K-12 educatio
 |-----------|--------|---------------|
 | **Data/** | `student computational thinking.csv` | Input data |
 | **Code/** | `score analysis.ipynb` | Jupyter Notebook containing the code to generate output |
-| **Result/** | `output.docx` | Research output of the regression analysis |
+| **Result/** | `output.docx` | Research output of the cluster analysis |
